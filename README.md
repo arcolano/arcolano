@@ -1,6 +1,6 @@
 # Nicholas Arcolano, Ph.D.
 
-Head of AI & Research at [Jellyfish](https://jellyfish.co). I study how AI is actually changing software engineering across more than 1,000 companies and 100 million pull requests, and advise engineering leaders putting it into practice.
+Chief Scientist at [Jellyfish](https://jellyfish.co). I study how AI is actually changing software engineering using the largest engineering dataset in the industry (1,300+ companies and more than 100 million pull requests), and advise engineering leaders putting it into practice.
 
 The biggest barrier to AI adoption isn't the technology. It's measurement, organizational readiness, and knowing what's actually working.
 
